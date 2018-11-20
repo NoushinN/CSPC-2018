@@ -12,6 +12,8 @@ Established in 2009, the [Canadian Science Policy Conference (CSPC)](https://sci
 The CSPC has become Canada’s most comprehensive, multi-sectorial and multi-disciplinary annual science policy forum and attracted numerous politicians and hundreds of professionals from industry, academia, the non-profit sector, federal and provincial governments every year. The conference has traveled across Canada: Toronto (2009), Montreal (2010), Ottawa (2011), Calgary (2012), Toronto (2013), Halifax (2014), Ottawa (2015, 2016, 2017) and returns to Ottawa in 2018.
 
 # 2. CSPF Notes
+The [program at a glance](https://cspc2018.ca/program/) contains all the sessions and information on the speakers and panels. The twitter handle for the conference uses the hashtag #CSPC2018.
+
 Please find the summary of notes taken by Canadian Science Policy Fellows below:
 - [Dr. Shawn McGuirk's notes](https://github.com/NoushinN/CSPC-2018/blob/master/CSPC2018%20notes%20-%20Shawn%20McGuirk.pdf)
 - [Dr. Alana Westwood's notes](https://github.com/NoushinN/CSPC-2018/blob/master/CSPC%202018%20debrief%20-%20Alana%20Westwood.pdf)
@@ -104,10 +106,7 @@ Welcome to #CSPC2018 conference proceedings!
 In the spirit of open science, Canadian Science Policy Fellow participants are trying to make this conference as **open, accessible, and user-friendly** as possible. This repo will store conference notes from Canadian Science Policy Fellow participants who have agreed to share their summary notes, and also serves as a mechanism to receive feedback in the form of issues. 
 Please let us know your thoughts by creating an issue. Here's an explanation of how to creat one [issue creation](https://help.github.com/articles/creating-an-issue/).
 
-The [program at a glance](https://cspc2018.ca/program/) contains all the sessions and information on the speakers and panels. The twitter handle for the conference uses the hashtag #CSPC2018.
-
 Our team is committed to providing an environment that encourages the free expression and exchange of scientific ideas and promotes equal opportunities and respectful treatment for all participants. All participants are expected to treat others with respect and consideration, follow rules, and alert us of any dangerous situations or anyone in distress.
-
 
 Our **notes policy** is that anything said by a speaker is fair game for tweeting and live note-taking unless the speaker states otherwise. If you are planning to use this material or tweet about the talks, please ask permission of presenter and note-taker first.
 
