@@ -13,7 +13,8 @@ The CSPC has become Canada’s most comprehensive, multi-sectorial and multi-dis
 # 2. CSPC2018 Themes 
 The five themes of CSPC 2018 are and the associated talks are listed below.
 
-| Science and Policy |
+
+| **Science and Policy ** |
 | ---|
 | Canada’s Climate Change Adaptation Platform as a Model for Science-Policy Integration | 
 | Connecting Science with Policy in Canada: how do I do it? | 
@@ -27,7 +28,8 @@ The five themes of CSPC 2018 are and the associated talks are listed below.
 | Shaping science policy to improve equity, diversity and inclusion | 
 | Should science-based organizations define their risk tolerances?: A debate | 
 
-|Science and Society | 
+
+| **Science and Society  ** | 
 | ---|
 | Bridging Science and Indigenous Knowledge Systems: Best Practices |
 | Communication culture: Scientists’ views and trainers’ methods to better engage with publics and policy-makers |
@@ -42,7 +44,8 @@ The five themes of CSPC 2018 are and the associated talks are listed below.
 | The Logic of Inclusive Innovation: From Inputs to Outcomes |
 | The status of science literacy in Canada |
 
-| Science, Innovation, and Economic Development |
+
+|  **Science, Innovation, and Economic Development ** |
 | ---|
 | Commercializing Innovation in Canada: Retaining human and financial capital north of the border |
 | Failure to Thrive: Why Canada Struggles to Grow World Leading Tech Companies |
@@ -52,11 +55,13 @@ The five themes of CSPC 2018 are and the associated talks are listed below.
 | Towards a Canadian Life Sciences Supercluster |
 | What’s on the menu? Science-based: policies to address new agri-food realities |
 
-| Science and International Affairs |
+
+|  **Science and International Affairs ** |
 | ---|
 | International Science and Canada – Addressing Global Agenda 2030 Together |
 
-| Science and The Next Generation |
+
+|  **Science and The Next Generation ** |
 | ---|
 | A Data Native Generation’s Approach to Science: Science Instruction Vs. Inquiry into Science |
 | Canada 2067 – lessons learned in building a national vision for STEM education |
@@ -67,7 +72,8 @@ The five themes of CSPC 2018 are and the associated talks are listed below.
 | Supporting the next generation of northern scientists |
 | Where the rubber meets the road: The real life impact of policy on Canadian postdocs |
 
-| CSPC Short Talk Series |
+
+|  **CSPC Short Talk Series ** |
 | ---|
 | Amplify: Managing Microaggressions and Countering Stereotypes Against Women and Girls in STEM (Science and Society) |
 | Conspiring Together for Good: Institutional Science and Religion (Science and Society) |
@@ -77,7 +83,7 @@ The five themes of CSPC 2018 are and the associated talks are listed below.
 | Putting our Minds Together: Research and Knowledge Management Strategy – BC Ministry of Health (Science and Policy) |
 | Who is a science communicator? (Science and Society) |
 
-| Symposia |
+|  **Symposia ** |
 | ---|
 | Brainstorming for Canada’s National Water Vision |
 | Equity, Diversity and Inclusion in Science: from Policy to Implementation |
@@ -88,7 +94,7 @@ The five themes of CSPC 2018 are and the associated talks are listed below.
 # 3. Code of Conduct
 Welcome to #CSPC2018 conference proceedings! 
 In the spirit of open science, Canadian Science Policy Fellow participants are trying to make this conference as **open, accessible, and user-friendly** as possible. This repo will store conference notes from Canadian Science Policy Fellow participants who have agreed to share their summary notes, and also serves as a mechanism to receive feedback in the form of issues. 
-Please let us know your thoughts by creating an issue. Here's an explanation of how to creat one ([issue creation](https://help.github.com/articles/creating-an-issue/).
+Please let us know your thoughts by creating an issue. Here's an explanation of how to creat one [issue creation](https://help.github.com/articles/creating-an-issue/).
 
 The [program at a glance](https://cspc2018.ca/program/) contains all the sessions and information on the speakers and panels. The twitter handle for the conference uses the hashtag #CSPC2018.
 
