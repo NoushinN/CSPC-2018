@@ -106,7 +106,7 @@ Welcome to #CSPC2018 conference proceedings!
 
 Please let us know your thoughts by creating an issue. Here's an explanation of how to creat one [issue creation](https://help.github.com/articles/creating-an-issue/).
 
-Our team is committed to providing an environment that encourages the free expression and exchange of scientific ideas and promotes equal opportunities and respectful treatment for all participants. All participants are expected to treat others with respect and consideration, follow rules, and alert us of any dangerous situations or anyone in distress.
+Our team is committed to providing an environment that encourages the free expression and exchange of scientific ideas and promotes equal opportunities and respectful treatment for all participants. All participants are expected to treat others with respect and consideration, follow rules, and alert us of any dangerous situations or anyone in distress. You can also find us at our [slack channel](https://scipolfellows.slack.com)
 
 Our **notes policy** is that anything said by a speaker is fair game for tweeting and live note-taking unless the speaker states otherwise. If you are planning to use this material or tweet about the talks, please ask permission of presenter and note-taker first.
 
