@@ -8,7 +8,7 @@
 5. Acknowledgements
 
 # 1. About CSPC
-Established in 2009, the Canadian Science Policy Conference (CSPC) meets an important need for a non-partisan, inclusive, national dialogue on science, technology and innovation policy. Our vision is to ensure systematic connections between Canada’s diverse scientific enterprises and policymakers in scientific enterprises and policymakers in political spheres, both federally and provincially.
+Established in 2009, the [Canadian Science Policy Conference (CSPC)](https://sciencepolicy.ca/cspc-2018) meets an important need for a non-partisan, inclusive, national dialogue on science, technology and innovation policy. Our vision is to ensure systematic connections between Canada’s diverse scientific enterprises and policymakers in scientific enterprises and policymakers in political spheres, both federally and provincially.
 The CSPC has become Canada’s most comprehensive, multi-sectorial and multi-disciplinary annual science policy forum and attracted numerous politicians and hundreds of professionals from industry, academia, the non-profit sector, federal and provincial governments every year. The conference has traveled across Canada: Toronto (2009), Montreal (2010), Ottawa (2011), Calgary (2012), Toronto (2013), Halifax (2014), Ottawa (2015, 2016, 2017) and returns to Ottawa in 2018.
 
 # 2. CSPF Notes
