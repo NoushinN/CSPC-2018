@@ -19,7 +19,7 @@ Please find the summary of notes taken by Canadian Science Policy Fellows below:
 - [Dr. Konstantin Petoukhov's notes](https://github.com/NoushinN/CSPC-2018/blob/master/CSPC%20report%20-%20Konstantin%20Petoukhov.docx)
 
 # 3. CSPC2018 Themes 
-The five themes of CSPC 2018 are and the associated talks are listed below.
+The five themes of [CSPC2018](https://cspc2018.ca) and the associated talks are listed below.
 
 
 | **Science and Policy ** |
