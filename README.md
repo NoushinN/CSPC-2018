@@ -15,10 +15,11 @@ The CSPC has become Canada’s most comprehensive, multi-sectorial and multi-dis
 The [program at a glance](https://cspc2018.ca/program/) contains all the sessions and information on the speakers and panels. The twitter handle for the conference uses the hashtag #CSPC2018.
 
 Please find the summary of notes taken by Canadian Science Policy Fellows below:
-- [Dr. Shawn McGuirk's notes](https://github.com/NoushinN/CSPC-2018/blob/master/CSPC2018%20notes%20-%20Shawn%20McGuirk.pdf)
-- [Dr. Alana Westwood's notes](https://github.com/NoushinN/CSPC-2018/blob/master/CSPC%202018%20debrief%20-%20Alana%20Westwood.pdf)
-- [Dr. Noushin Nabavi's notes](https://github.com/NoushinN/CSPC-2018/blob/master/CSPC%20-%202018%20-%20Noushin%20Nabavi.pdf)
-- [Dr. Konstantin Petoukhov's notes](https://github.com/NoushinN/CSPC-2018/blob/master/CSPC%20report%20-%20Konstantin%20Petoukhov.docx)
+- [Shawn McGuirk's notes](https://github.com/NoushinN/CSPC-2018/blob/master/CSPC2018%20notes%20-%20Shawn%20McGuirk_public.pdf)
+- [Alana Westwood's notes](https://github.com/NoushinN/CSPC-2018/blob/master/CSPC%202018%20debrief%20-%20Alana%20Westwood.pdf)
+- [Noushin Nabavi's notes](https://github.com/NoushinN/CSPC-2018/blob/master/CSPC%20-%202018%20-%20Noushin%20Nabavi.pdf)
+- [Konstantin Petoukhov's notes](https://github.com/NoushinN/CSPC-2018/blob/master/CSPC%20report%20-%20Konstantin.pdf)
+- [Lushani Nanayakkara's notes](https://github.com/NoushinN/CSPC-2018/blob/master/CSPC%20notes%20-%20Lushani.pdf)
 
 # 3. CSPC2018 Themes 
 The five themes of [CSPC2018](https://cspc2018.ca) and the associated talks are listed below.
