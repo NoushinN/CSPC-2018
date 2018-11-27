@@ -25,7 +25,7 @@ Please find the summary of notes taken by Canadian Science Policy Fellows below:
 The five themes of [CSPC2018](https://cspc2018.ca) and the associated talks are listed below.
 
 
-| **Science and Policy ** |
+| **Science and Policy** |
 | ---|
 | Canada’s Climate Change Adaptation Platform as a Model for Science-Policy Integration | 
 | Connecting Science with Policy in Canada: how do I do it? | 
@@ -40,7 +40,7 @@ The five themes of [CSPC2018](https://cspc2018.ca) and the associated talks are 
 | Should science-based organizations define their risk tolerances?: A debate | 
 
 
-| **Science and Society  ** | 
+| **Science and Society** | 
 | ---|
 | Bridging Science and Indigenous Knowledge Systems: Best Practices |
 | Communication culture: Scientists’ views and trainers’ methods to better engage with publics and policy-makers |
@@ -56,7 +56,7 @@ The five themes of [CSPC2018](https://cspc2018.ca) and the associated talks are 
 | The status of science literacy in Canada |
 
 
-|  **Science, Innovation, and Economic Development ** |
+|  **Science, Innovation, and Economic Development** |
 | ---|
 | Commercializing Innovation in Canada: Retaining human and financial capital north of the border |
 | Failure to Thrive: Why Canada Struggles to Grow World Leading Tech Companies |
@@ -67,12 +67,12 @@ The five themes of [CSPC2018](https://cspc2018.ca) and the associated talks are 
 | What’s on the menu? Science-based: policies to address new agri-food realities |
 
 
-|  **Science and International Affairs ** |
+|  **Science and International Affairs** |
 | ---|
 | International Science and Canada – Addressing Global Agenda 2030 Together |
 
 
-|  **Science and The Next Generation ** |
+|  **Science and The Next Generation** |
 | ---|
 | A Data Native Generation’s Approach to Science: Science Instruction Vs. Inquiry into Science |
 | Canada 2067 – lessons learned in building a national vision for STEM education |
@@ -84,7 +84,7 @@ The five themes of [CSPC2018](https://cspc2018.ca) and the associated talks are 
 | Where the rubber meets the road: The real life impact of policy on Canadian postdocs |
 
 
-|  **CSPC Short Talk Series ** |
+|  **CSPC Short Talk Series** |
 | ---|
 | Amplify: Managing Microaggressions and Countering Stereotypes Against Women and Girls in STEM (Science and Society) |
 | Conspiring Together for Good: Institutional Science and Religion (Science and Society) |
@@ -94,7 +94,7 @@ The five themes of [CSPC2018](https://cspc2018.ca) and the associated talks are 
 | Putting our Minds Together: Research and Knowledge Management Strategy – BC Ministry of Health (Science and Policy) |
 | Who is a science communicator? (Science and Society) |
 
-|  **Symposia ** |
+|  **Symposia** |
 | ---|
 | Brainstorming for Canada’s National Water Vision |
 | Equity, Diversity and Inclusion in Science: from Policy to Implementation |
