@@ -1,4 +1,4 @@
-# Canadian Science Policy Conference 
+# Canadian Science Policy Conference Proceedings
 ## November 07-09, 2018 - Delta Hotel, Ottawa
 
 1. About CSPC
