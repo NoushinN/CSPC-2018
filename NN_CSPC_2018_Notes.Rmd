@@ -1,0 +1,182 @@
+---
+title: "Canadian Science Policy Conference (CSPC)"
+author: "Noushin Nabavi"
+date: '2018-11-17'
+output: word_document
+---
+
+# **Conference themes**
+The 2018 CSPC conference, held on November 7-9, 2018 at the Delta Hotel in Ottawa, was divided into 4 main themes: (1) Science and society, (2) science and policy, (3) Science and the next generation, (4) Science, innovation, and economic development.
+
+# **THEME 1. Science and Society**
+
+## 1A. Granting agencies and participatory science in Canada
+Canadian granting agencies are increasingly interested in strengthening the link between science and society. Attitude towards research is key. All panelists emphasize the role of public servants to educate and inform but also appropriately associate facts. There are, however, cultural challenges in where to move the needle and asking what would success look like. Beyond research programming, should citizens/patients/marginalized people have a place on evaluation committees, boards of directors of granting agencies, or other official bodies?      
+
+- Dr. Marc Fortin (Vice-President on NSERC): releasing a document 2.0 on their website and brainstorming on how to encourage at a systematic level participatory citizen science, and how to best promote science and support open access.   
+- Ted Hewitt (President, SSHRC): suggests partnership engagement grants to generate insight. Partnerships with communities, peer-review, education, engagement, translation, and focus on supporting indigenous research, vulnerable populations, and women. 
+- Dr. Michael J. Strong (President, CIHR): encouraging community organizations to write grants to CIHR, and get peer-review connections. SPOR is case of success of patients and citizens participating in funding, more of this model is going to be thought about. Need to build into the granting structures appointment, promotion, etc. but perhaps need to change some of the academic models of getting tenure. Maybe we need to elongate period from assistant professorship to tenureship so that more engaging community building activities take place within that time. Need to re-assess how we evaluate success at academic level.   
+- Serge Marchand (Directeur scientifique, The Fonds de recherche du Québec – Santé (FRQS)): Participatory science in important. NGO's aren't funded but play a key role in partnering with academics and government to translate research. Suggests making policies that build capacity but also allow execution and translation of research in academia. More importantly, perhaps, is his argument on funding of participatory science in Canada and the key role of citizens in the research process.   
+
+## 1B.  Bridging Science and Indigenous Knowledge Systems: Best Practices
+
+The panelists talk about science and Indigenous Knowledge systems and how most what is known to them are undocumented. Indigenous Knowledge is experiential, transmitted from one person to another, associated with philosophies of land and processes. They tend to be local, temporal, and include less decion making processes. The Indigenous people's environmental assessment models and how assessment procedures are implemented are different and are not clear if not sought. Case studies presented by the panelists will provide participants with examples of successful integration and partnership practices established between governmental organizations and local/regional and Indigenous groups.
+
+
+- Leah Braithwaite (Executive Director, Arctic Net Inc.): Suggests that there is a need in bridging the gap between Indigenous Knowledge and Western Science. It is important to identify mitigations, determine significant knowledges and residuals and communicate. This means building an elaborate network with the communities themselves and just act as a conduit of their knowledge. Indigenous Knowledge goes hand in hand with process so need to engage with the Indigenous communities.  
+
+- Dr. Solange Nadeau (Senior Forest Sociologist, Canadian Forest Services at Natural Resources Canada): talks about Indigenous Knowledge has a different process for collecting data, analyze data, and share knowledge but they are open to new technologies. There is a handbook on Inuit knowledge of climate change as part of a 2001-2006 project discusses wildlife, weather patterns, and science and policies contemplated by Inuit. There are currently large gaps with the arctic communities and exists a social and economic inequality in Inuit.   
+- Scot Nickels (Director, Inuit Qaujisarvingat: The Inuit Knowledge Centre): providing ‘grassroots’ perspectives of Indigenous Knowledge, his resarch is on Inuit Tapiriit Kanatami (ITK) and explains how he has spent his professional life (20 years) in company of the Inuit.  A document was launched in March 2018 on National Inuit Strategy on Research. This is through close collaboration with Inuit communities, and learnign to speak their language.   
+- Rachel Olson (President and one of the Founding Directors, The Firelight Group): some priorities include advancing research, improving research ethics, implement funding, data management systems, and building the next cohort of engagements.   An example of a successful project funded by Polar Knowledge Canada (2017-2019) and supports scientific conducts and technological research in monitoring Canada's North. 
+
+
+
+# **THEME 2. Science and Policy**
+
+## 2A. How can better Federal-Provincial collaboration strengthen Canada's Research ecosystem?
+- **[David Naylor's Report](http://www.sciencereview.ca/eic/site/059.nsf/vwapj/ScienceReview_April2017.pdf/$file/ScienceReview_April2017.pdf)** was referenced many times as a document shaping the history of science for the next 4-5 years. Naylor is a Professor of Medicine and President Emeritus at the University of Toronto.
+- The report called **INVESTING IN CANADA’S FUTURE** is intended to strengthening the foundations of Canadian research. It emphasizes the limied Federal-Provincial-Territorial interplay in research, innovation, and talent development. 
+It also emphasizes on the limited shared strategizing among senior officials on science and innovation files.
+There are imbalances of financial support for research from Federal-Provincial-Territorial and institutional sources.
+- Friction points include: **costs** & **shared vision**.
+- Other challenges based on Janet Rossant (President and Scientific Director, Gairdner Foundation): (1) lack of clear national vision, (2) disruptive funding, (3) dysfunctional programs at Federal-Provincial-Territorial levels. 
+- Two recommendations: Not compromise the excellence of research but (1) implement stronger oversight and governance, a well as (2) implement transformative investments and strategic science development. 
+- This entails incorporating a digital research infrastructure, stabilizing CFI funding, strengthening institutional fabric of Canadian research, attention to valley of death for academic staff, and re-visit HERD statistics, as well as council of Canadian academics.
+- Mona Nemer (Chief Science Advisor): Incentive to make the National science roadmap a role model for all nations, themes will revolve around: **data and health**, **precision medicine**, **data development**, and **big science initiatives**. 
+- Michael Strong (President, Canadian Institutes of Health Research): To tackle how Federal-Provincial-Territorial coordination can be improved, he has written a report called **THE DELICATE BALANCE**
+- CIHR has initiated SPOR = Strategy for Patient-Oriented Research
+- Also: [Health Systems Impact Fellowships](https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=2792&view=currentOpps&type=EXACT&resultCount=25&sort=program&next=1&all=1&masterList=true#moreinformation) are put out by MSFHR to recruit grads and post-grads.
+- NAPHRO = National Alliance of Provincial Health Research Organization
+- CIHR partnerships are international
+- CIHR's 10-year map is complete in 2020, working on new plans.
+- Marc Lepage (President and CEO, Genome Canada): goal to implement programs with National depth and provincial breadth.
+- Initiatives like SPOR, Mitacs, Genome Canada have both provincial and federal components but are nationally oriented, and locally anchored. 
+- Krista Connell (Chief Executive Officer, Nova Scotia Health Research Foundation): Chief executive officer of Nova Scotia is the only one among all Canadian provinces with such role. She encourages other provinces take up this role and appoint a science executive officer. Elaborates on Nova Scotia's CAS system and its successes in the recent past. 
+
+##  2B. New Ways of Informing Policy by Leveraging Scientific Knowledge: Two Models related to Public-Academic Collaborations
+Two  models of collaboration between researchers and graduate students and other federal departments/agencies are showcased:   
+(1) International Policy Ideas Challenge (IPIC) is designed to enhance student and emerging scholar partnerships between SSHRC and Global Affairs Canada. This includes pronmoting big data learning, experiential learning, no ownership models, digital renaissance for teachers, etc. This is to help translate complex ideas into vernacular language and emphasize on academia's importance for democracy;   
+(2) is mostly based on a report on "Women in Natural Resources Sectors" examining participation of women and value women research and researchers. NRCAN has also commissioned 6 research papers from both academia and think-tanks to evaluate knowledge gaps to promote non-governmental organizations in disseminating research. Of importance are: peer-review, research rigor, longer research horizens, deeper and multi-sectoral research in higher quality, as well as drawing on different capacities to publish work. Panelists include:   
+
+- Madeline Johnson (Foreign Service Officer, Global Affairs Canada): emphasizing research and policy innovation approaches for these models.  
+
+- Bipasha Baruah (Canada Research Chair in Global Women’s Issues, Western University)   
+
+- Ian Clark (Chief of the Economic Research, Science Integration and Outreach Division, Natural Resources Canada)  
+
+- Ioanna Sahas Martin (Director for International Assistance Research and Knowledge, Global Affairs Canada)  
+
+- Maïka Sondarjee (SSHRC Doctoral Candidate, University of Toronto): emphasizes the importance of knowledge translation grants from SSHRC in shaping research.    
+
+
+##  2C. A two-way street: science informing policy, and policy informing science
+
+Science for policy and policy for science. Social innovation is needed around products, services, and processes. To make approaches effective, _on the one hand_, decision makers need to understand the ins and outs of the autonomous research process and how best to enable it over the entire timeline from discovery to impact. _On the other hand_, decision makers can also put challenges to the research community to stimulate research, collaborations, and innovation activities in areas where there are known knowledge gaps.   
+   
+- Denise Amyot (President and CEO, Colleges and Institutes Canada): Effective policy development involves:  
+(1) consulting citizens and consumers before releasing products/processes/services. Need to be inclusive in consultations especially towards the vulnerable communities as well as forgotten or marginalized people,
+(2) multi-disciplinary team to draft policies,
+(3) draft, re-draft, edit,
+(4) communications with various stakeholders since there is need for sustained relationship between researchers and policy makers.       
+- Krista Connell (Chief Executive Officer, Nova Scotia Health Research Foundation): role of science for policy is complex.      Scientists should be careful in talking about their results to policy-makers. We don't want to present a dead cat to a cat-lover analogy. She talks about there being a fine balance between pull and push to government and scientists normally appear to be the 'push' people in Government. Need not to widen the chasm between science and policy but come up with solutions. Science needs to consider context and relevance is key. Need to implement more awards for knowledge to action.    
+- Necole Sommersell (Manager, Evaluation & Impact, Research Manitoba): talks about steps in policy making involves:
+ (1) having a proof-of-concept project,
+ (2) capacity building, passing the torch,
+ (3) engage stakeholders,
+ (4) dissemination of information in venues and platforms,
+ (5) have a champion project by a respected and knowledgable conduit.    
+
+##  2D. Skills and competencies where science and policy meet
+Policy-making is a complex process and involves multiple considerations and competing priorities. Science cannot and should not provide all the answers in policy-making and should only be one of the voices.   
+
+- Alejandro Adem (Chief Executive Officer and Scientific Director, Mitacs Inc.) and Gail Bowkett (Director, Innovation Policy, Mitacs Inc.) talk about the role of Mitacs in enabling scientists in joining the policy-making realms through Mitacs Fellowship program. They also discuss the skills and competencies needed to navigate the process of policy-making. 
+
+- Dr. David Castle (Vice-President Research and a Professor in the School of Public Administration with an adjunct appointment in the Gustavson School of Business) is of the idea of 'science on tap not on top' because science is limited in assessing all angles.   
+- Scott Findlay (Professor, Department of Biology at the University of Ottawa; Director of Graduate Studies at the Institute of Environment) discusses some steps that can be taken to enhance the capacity of an organization and integrate science in policy-making processes.    
+- Katie Gibbs (A scientist, organizer and advocate for science and evidence-based policies): Katie's viewpoints were from the NGO side and emphasized the importance of NGOs in facilitating policy making processes. She talked about funding barriers for NGOs and how joining NGOs isn't completely viable financially.   
+
+##  2E. Policy 101 workshop
+This workshop provided a gateway into the world of science policy. Panelists were:    
+
+- Dr. Kimberly Girling (Policy Analyst, Innovation, Science and Economic Development Canada): she is a previous Mitacs Science Policy fellow.    
+- Dr. Jeff Kinder (Executive Director, Science and Innovation Institute on Governance): he is American himself but has been in Ottawa the past 20 years. He compared policy making in the American way and Canadian way and compared how the processes are different between the two countries. He mentioned Canadians are more generalists in their approach to policy development while Americans are very specialized.   
+- Silke Nebel (VP Science and Conservation, Bird Studies Canada): She advised finding hidden networks, reaching out to professionals, seeking mentors, investing in others.  Volunteer for CSPC. Get involved in government and political campaigns, and non-partisan civil services in Canada.  
+
+- Kori St-Cyr (Senior Advisor, Science Strategies, Canadian Institutes of Health Research): he advised joining health system impact fellowships, CIHR has leadership programs for students. Communicate your science in policy contexts. He also advised getting involved, google science policy groups for students, join advocacy groups, meet the community, find causes you care about and get involved in policy-related issues. There are groups in policy leading, e.g. action canada programs. Build awareness of opportunities, SOTL (Science outside the lab) is one example.    
+
+
+# **THEME 3. Science and the Next Generation**
+
+## 3A. A Data Native Generation's Approach to Science: Science Instruction Vs. Inquiry into Science 
+
+A current divide in class and curriculum structures between teachers and students. Lessons do not address data-native generation’s knowledge acquisition needs and practices, so modern students come to school with already developed learning techniques, but some teachers cannot reach the level of literacy for students. Science Innovation Communication (NIVA) is a consultancy in science with an emphasis on science communication.        
+
+- Mohammad Asadi Lari (Managing Director, STEM Fellowship & MD/PhD Candidate, U of T) recommends evolving post-secondary requirements and move from policy to implementation.   
+
+- Suzanne Kettley (Executive Director of Canadian Science Publishing) talks about the need for journals to modernize. Currently not many open access journals. Open access business model is being invented now, many reiterations but publishers need to embrace change and move from  aggregation of contents by volume and issue to social media based publishing, link to discussions, talks, conferences.   
+
+- Dr. Sacha Noukhovitch (Founder and Executive Director, STEM Fellowship), we need to start translating lessons to simpler language for audience that may be more general and not specialized. Science communication is of key importance but need to include elements of design, interactivity, etc.     
+
+- Dr. Bonnie Schmidt (founder and president of Let’s Talk Science): discussing the role of Let's talk science in teacher and education training, involvement of graduate students. LTS celebrating its 25th year, very successful model. Has identified 10 key insights from 1,000 youths across the country. This is a roadmap envisioning the future of STEM for 2067 and include:
+(1) personalized learning,
+(2) student collaboration,
+(3) technology in classrooms,
+(4) changing the education curriculum,
+(5) experiential learning,
+(6) mentorship,
+(7) critical thinking and problem solving, 
+(8) self-awareness and counselling,
+(9) well-being,
+(10) comfortable spaces.     
+
+
+- Dr. Alan Winter (Innovation Commissioner) talks about Cascadia Corridor, many students end up leaving to States or companies in the US affect Canadians. For instance, American Amazon bought Canadian Whole Foods, societal ramifications. We go online for shopping, banking, and _education_. What skills are needed going into the future? Something teachers and parents need to ask.  
+
+
+
+## 3B. Enabling Interdisciplinarity for the Next Generation of Problem Solvers 
+The concept of interdisciplinarity is used to frame education, scholarship, research, and interactions within and outside the academy. Panelists emphasize that there is a need to identify successful examples/case studies of interdisciplinarity research and talk about "Manifesto for Enabling Insterdisciplinarity".      
+- Dr. Vivian Nguyen (Office of the Chief Scientist at Natural Resources Canada): Vivian is the 2017-18 Mitacs Canadian Science Policy Fellow. Fixed identity is not the best approach. There is apetite in NGOs and government for people who are multi-disciplinary. To get these experiences, she suggests internship positions in a variety of sectors. To gain more experiences, go to galleries, lectures, meet other people, build models so you can fail but learn.  
+
+- Andrea Reid (PhD Candidate, University of British Columbia and Carleton University): barriers of interdisciplinary include limited granting agencies, limited publishers, limited precedence. Talks about National Geographic funding being among the few funding structures having interdisciplinary in mind.   Advice on not just be but do.   
+
+- Dr. Shohini Ghose (Professor, Physics and Computer Science; Director, Centre for Women in Science (WinS); Vice-President Elect, Canadian Association of Physicists): important to not keep the interdisciplinary scientists orphaned, so need an infrastructure that enables interdisciplinary. Interdisciplinary is key because it is what gives rise to advances in things like security, encription, teleportation, etc.   
+
+
+# **THEME 4. Science, Innovation, and Economic Development**
+
+## 4A. Towards a Canadian Life Sciences Supercluster 
+- Gordon McCauley (President and CEO, The Centre for Drug Research and Development) presents on Canada constituting less than 0.5% of the world population, yet Canadians produce 5% of the world’s research publications, with a citation rate that ranks amongst the top 6 nations worldwide. However, Canada does not full take advantage of this competitive advantage and has little strategy in place to translate that it into a leading life sciences industry. Panelists are the winners of the Canadian federal government’s 2018 ‘Supercluster’ funding initiative encompassing **digital technologies**, **oceans**, **mining**, **artificial intelligence**, **smart agri-food**, and **advanced manufacturing**. 
+- Dr. Raphael (Rafi) Hofstein (President and CEO, MaRS Innovation) mentions jarringly, no life sciences proposals were ultimately supported. He mentions Canada is a barriered nation, need multiple layers of approval without a nationally robust infrastructure. Need to strengthen our own health Canada and not totally depend on FDA. Another suggestion is to build stronger FDA - Health Canada partnerships. We do not have an orphan drug policy in this country, this is the lack of foresight. Legislative regulatory policy is a nightmare and takes years. Need a transparent process for expectation setting. Policy and regulatory bodies in government need to align to move forward, but this is slow, we cannot afford this. 
+- Cate McCready (Vice President, External Affairs, BIOTECanada) says Canada healthcare especially needs a supercluster as our health is broken. Health is wealth and wealth is health. Mandate to double export by 2025 to grow to 25 Billion dollar economy. To supply this, we need to double companies from 900 to 1800 and have anchored companies in Canada. Need to move towards agile health policies in Health Canada.
+- Dr. Stéphanie Michaud (President & Chief Executive Officer, BioCanRx) talks of the enormous amount of data that is being collected in her company on immunotherapy effectiveness in Cancer patients but no capacity to store the data. CART treatment costs $45,000, we can't afford this for personalized medicine. Need to look at best practices in other countries and implement those in Canada.
+- Karimah Es Sabar (CEO and Partner, Quark Venture Inc.) encourages companies to generate enough data/productivity to have an anchor company in Canada. venture investment into Canadian companies needs to be stronger so that we don't remain a startup nation and that we develop our own healthcare economy and lifescience companies independent of USA. We are struggling with volume, talent, technology, timeliness, safety, and sustainability. Need to take action NOW. Procurement needs to improved from cost-based to value-based. Adaptation is first step so need AI-based companies. Also need a cultural shift to (1) attract talent, (2) implement talent, (3) mobilize talent, (4) retain talent in Canada. We can take a 'sand-box' approach and just get started, then build on it. Supercluster can mediate this by increasing collaboration, transparency, and connectivity. Therefore, Supercluster is an opportunity to showcase our collaborations. 
+
+## 4B. Innovating Science Communication 
+Promoting effective and timely science communication in a variety of forms to engage all learners. Making presentations and posters visual with elements of design is key. Incorporate multi-media into lesson plans is key.   
+
+- Julia Krolik (Founder, Pixels and Plans & Art the Science): promote aesthetics. Importance of modular design: know the audience, infographics, report, branding. "Design is thinking made visual". Geospatial mapping, information design, circo-plots.   
+
+- Dr. Chantal Barriault (Director of the Science Communication Graduate Program, Laurentian University and Science North): first Science Communication master's degree program in Canada. Started in 2005, located in Sudbury Ontario. Students move on to jobs in museums, government, more graduate programs, aquariums, industry, NGOs, educational institutions, and research. Students learn both science and multi-media, design, communication strategies, public speaking, etc. 
+- Catherine Lau (Program Evaluation Officer, Art the Science)
+- Jonathan Provost (Real Property Divestment Program Manager, National Defence): quotes George Carlin: 'Don't believe anything the government tells you'. Advocates for open science and role of design in communication. Relationships are more important than anything, need to teach relationship strategy. Fan of Simon Sinek, quoting him that 100% of your partners are people, therefore understand people to understand your business. 
+- Samantha Yammine (Science Communicator and PhD Candidate in the Department of Molecular Genetics, University of Toronto): She takes selfies in the research spaces, and shares them in twitter or instagram. Very high engagement with her pictures. Using hashtags such as #scientistswhoselfie, #blackandstem, #phdproblems, #thisiswhatengdo, #thescicommunity, #scicom, #phdlife. She wants to eliminate bias, stigmatization, and stereotypes in science. 
+
+## 4C. Failure to Thrive: Why Canada Struggles to Grow World Leading Tech Companies
+Focus on Canada's inability to grow firms into large, globally successful industry leaders. These panelists discuss the high-level reasons why Canada remains a startup nation:      
+
+- Eric M. Meslin, Ph.D., FCAHS (President and CEO, Council of Canadian Academies): discusses how Canadians are great at describing technical and management skills gaps, weak IP policies, inadequate venture capital, and small domestic markets but have not been equally proficient at identifying the causes and consequences of this failure to grow robust domestic companies in Canada.   
+- Lisa Crossley (CEO, Reliq Health Technologies, Inc.): talks about focusing on government policies and regulations that allow Canadian anchored companies to survive in Canada.   
+- Pierre Lortie, C.M., FCAE (Senior Business Advisor, Dentons LLP): Talks about the idea of inubating companies in models such as creative destruction lab to make them lean but also grow them through partnerships.    
+- Victoria Lennox (Co-Founder and CEO, Start-Up Canada) has propelled Canada onto the global stage as an ‘Innovation Nation' by starting her non-profit startup. She says we need to start from somewhere and the need for inclusion of youth culture especially in CleanTech and FinTech.  Some of the companies she has worked with have been sold to bigger American companies.  However, we need to consider how to keep human and financial capital north of the border.    
+
+## 4D. Policy Considerations on the Convergence of High Performance Computing & Artificial Intelligence
+
+High Performance Computing (HPC), Machine Learning (ML), and  Artificial Intelligence (AI) have emerged as fundamental tools for 21st Century research. The Federal government announced as part of its 2018 Budget, a commitment of $572.5 million over five years with $52 million per year ongoing to implement a national Digital Research Infrastructure Strategy. This can change some of the investment models, policies, education, society, and science.  
+
+- Chris Loken, PhD (Chief Technology Officer, Compute Ontario): talks about how very limited resources of the HPC are currently being used but sky is the limit for the types of projects that can be done. Focus needs to be on domain expertise and interdisciplinary. Additional alternatives are speech-language recognition models, we can generate and be exposed to a new reality. 
+- Suzanne Talon, PhD  and Alain Veilleux (Calcul Québec): there are more incentives for collaborations. They both talk of Canada having one of the best HPCs but need to build collaborations (not enforce it but foster it). Also need to think about liscencing and structures for open data and data sharing practices. Open data access, use, and liscence needs to be discussed and determined.   
+- Alison Paprica, PhD PMP (Vice President, Health Strategy and Partnerships, Vector Institute; Assistant Professor, Institute for Health Policy, Management and Evaluation (IHPME)): the need to ask ethical question in AI and ML regarding transformation of society, work, health, education, policies, etc. Some jobs will cease to exist but new opportunities will emerge. We also need to form new thoughts around open innovation and patenting structures if any at all. 
+
+
+
